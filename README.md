@@ -1,6 +1,5 @@
 #SWI-PROLOG Assignment 
-- Rules for the ten selected predicates from the CCPS_721_Prolog_Problems are written into 'labs721.pl' file. 
-	Selected predicates are: 
+- Selected predicates are: 
 	1) 	only_odd_digits
 	2) 	domino_cycle
 	3) 	first_missing_positive
